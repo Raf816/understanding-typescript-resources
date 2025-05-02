@@ -15,3 +15,4 @@ add(10);
 add(10, 6);
 // add(10, '6');
 
+console.log("hello raf");
